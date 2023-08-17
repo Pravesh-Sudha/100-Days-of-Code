@@ -1,0 +1,61 @@
+# 100 Days of Code: Terraform, Linux, and DevOps 🚀🚀🚀
+
+Welcome to the **100 Days of Code** challenge focused on learning Terraform, Linux, and DevOps practices! This repository is a collection of my journey as I dive into the exciting world of infrastructure as code and automation. Over the course of 100 days, I will be dedicating time each day to enhance my skills and knowledge in these powerful tools and practices.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Goals](#goals)
+- [Progress](#progress)
+- [Resources](#resources)
+- [Log](#log)
+- [Connect](#connect)
+
+## Overview
+
+In this repository, I will document my 100-day journey of hands-on learning in Terraform, Ansible, and DevOps principles. The aim is to gain a strong foundation in creating and managing infrastructure, automating deployment, and implementing DevOps practices to streamline the development lifecycle.
+
+## Goals
+
+My main goals for this challenge include:
+
+- **Mastery of Terraform:** I will learn how to define and manage infrastructure as code using Terraform. This includes creating, updating, and destroying resources in various cloud providers.
+
+- **Ansible Proficiency:** I intend to become proficient in Ansible, understanding its playbooks, roles, and modules. I'll explore automation of configuration management and deployment processes.
+
+- **DevOps Understanding:** Throughout this journey, I'll gain a deeper understanding of DevOps principles, continuous integration, continuous deployment (CI/CD), and how these concepts integrate with Terraform and Ansible.
+
+## Progress
+
+I will regularly update my progress in the [log](#log) section below. Each day, I'll provide insights into what I learned, the challenges I faced, and the achievements I unlocked. This documentation will serve as a record of my growth over the 100-day period.
+
+## Resources
+
+I'll be using a variety of resources to aid my learning, including:
+
+- Online tutorials and documentation from official Terraform, Ansible, and DevOps websites.
+- Books and e-books on Terraform, Ansible, and DevOps best practices.
+- YouTube videos and online courses for practical demonstrations and hands-on exercises.
+
+## Log
+
+### Day 1: Getting Started with Terraform
+- Pre-history of Cloud
+- What is Terraform ?
+- Learned about Terraform's HCL (HashiCorp Configuration Language).
+
+### Day 2: Terraform Modules
+- Installation
+- Created an Ec2 instance with aws provider.
+- Learnt about `terraform init`,`terraform plan`, `terraform apply` command.
+ 
+_... continue updating log for each day ..._
+
+## Connect
+
+Let's connect! Feel free to reach out to me on social media:
+
+- Twitter: [@praveshstwt](https://twitter.com/praveshswtw)
+- LinkedIn: [Pravesh-Sudha](https://www.linkedin.com/in/pravesh-sudha-82a37422a/)
+
+I'm excited to share my journey of learning Terraform, Ansible, and DevOps with you. Follow along, and let's learn and grow together! 🚀
