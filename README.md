@@ -48,7 +48,17 @@ I'll be using a variety of resources to aid my learning, including:
 - Installation
 - Created an Ec2 instance with aws provider.
 - Learnt about `terraform init`,`terraform plan`, `terraform apply` command.
- 
+
+### Day 3: AWS S3 + DynamoDb
+- Terraform basics
+- Created a S3 bucket on AWS.
+- Learnt about DynamoDb, RDS instance, Load balancer, Route 53 DNS Config.
+
+### Day 4: Terraform Variables
+- Different types of Variable
+- Input variable and output variable.
+- Learnt about variable file , .tfvars file and other ways of using variables.
+
 _... continue updating log for each day ..._
 
 ## Connect
