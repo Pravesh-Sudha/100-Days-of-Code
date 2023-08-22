@@ -59,6 +59,17 @@ I'll be using a variety of resources to aid my learning, including:
 - Input variable and output variable.
 - Learnt about variable file , .tfvars file and other ways of using variables.
 
+### Day 5: Terraform Advance features
+- Different types of Expressions like string, number, bool
+- Operators and conditionals.
+- Expressions Splat expressions, Dynamic blocks, Type constraints and Version constraints
+- Numeric and String functions
+- Other functions like Collection, encoding, date & time, IP network, etc.
+
+### Day 6: Terraform module
+- Created a Web App module
+- Used module like variable, DNS, networking and storage
+
 _... continue updating log for each day ..._
 
 ## Connect
