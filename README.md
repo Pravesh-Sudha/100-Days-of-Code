@@ -66,9 +66,16 @@ I'll be using a variety of resources to aid my learning, including:
 - Numeric and String functions
 - Other functions like Collection, encoding, date & time, IP network, etc.
 
-### Day 6: Terraform module
+### Day 6: Terraform Module
 - Created a Web App module
 - Used module like variable, DNS, networking and storage
+
+### Day 7: Terraform Environments
+- Created different environments 
+    - Staging
+    - Development
+    - Production
+- Created different Workspaces
 
 _... continue updating log for each day ..._
 
