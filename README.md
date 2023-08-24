@@ -77,6 +77,13 @@ I'll be using a variety of resources to aid my learning, including:
     - Production
 - Created different Workspaces
 
+### Day 8: Terraform Testing
+- Code Rot which means that with time your code get degraded like deprecated dependencies, unpinned versions,etc.
+- Test your Changes.
+- There are built-in checks (Terraform plan) and external tool like tflint and terratest
+- Manual testing (init -> plan -> apply -> destroy)
+- Terratest: It is an external tool that allow us to define test within an actual programming language like Go-Lang or Javascript rather than bash script.
+
 _... continue updating log for each day ..._
 
 ## Connect
