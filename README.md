@@ -84,6 +84,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Manual testing (init -> plan -> apply -> destroy)
 - Terratest: It is an external tool that allow us to define test within an actual programming language like Go-Lang or Javascript rather than bash script.
 
+### Day 9: Developer Workflow
+- CI/CD
+- Multi account / project
+- Terragrunt
+- Test account + cloud nuke
+
+
 _... continue updating log for each day ..._
 
 ## Connect
