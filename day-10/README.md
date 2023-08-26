@@ -1,43 +1,51 @@
-# Day 1 of 100DaysofCode
+# Day 10 of 100DaysofCode
 
-Feeling excited to start Day 1 of 100 DaysOfCode, today, I learnt about the Evolution of Cloud + Infrastructure as code (Part 1) and Terraform overview and setup locally.
+Feeling excited to start Day 10 of 100 DaysOfCode, today, I learnt about go Lang and made a weather program in it.
 
-<h3>Pre Cloud V/S Cloud Era</h3>
+# Go Lang Weather Program
 
-* Pre-Cloud era belongs to 1990s - 2000s in which if you come up with an idea, you need to write it down in software and buy a whole different server and set up a data center for hosting the software on web which was a very challenging task.
-* Cloud era belongs to 2000s - Present in which cloud providers like Amazon Web Services(AWS) , Google Cloud Provider (GCP), Microsoft Azure and many more provides hosting services on web in a cost efficent way. You don't have stress on the challenging part of deploying on physical server.
+This is a simple weather program written in Go that fetches weather information using the OpenWeatherMap API.
 
-<h4>What has Changed</h4>
+## Prerequisites
 
-* Infrastructure provisioned via APIs
-* Servers can be created and Destroyed in seconds
-* Long-lived + mutable -> short-lived + immutable
+Before you begin, make sure you have the following:
 
-<h4>Three Approaches of provisioning Cloud Resources</h4>
+- [Go programming language](https://golang.org/doc/install) installed on your system.
+- An API key from [OpenWeatherMap](https://openweathermap.org/) to access their weather data.
 
-* <b>GUI</b>: It is the Graphical User Interface. Different cloud providers have different types of GUI like Aws management console have different features compared to GCP console.
-* <b>API/CLI</b>: It is the Command Line Interface. All cloud providers give you access to their provider through Cli. Forexample, Aws command in Cli can be used to connect an AWS cloud provider.  
-* <b>IaC</b>: Infrastructure as Code is the best way to connect to your cloud provider and deploy your application. IaC tools like Terraform can help you have multi-cloud access to connect with your cluster.
+## Getting Started
 
-<h2>Infrastructure as Code</h2>
+1. **Clone the repository:**
 
-According to [Red Hat](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac#:~:text=choose%20Red%20Hat%3F-,Overview,to%20edit%20and%20distribute%20configurations.) docs, Infrastructure as Code (IaC) is the managing and provisioning of infrastructure through code instead of through manual processes. With IaC, configuration files are created that contain your infrastructure specifications, which makes it easier to edit and distribute configurations.
+    ```bash
+    git clone https://github.com/Pravesh-Sudha/100-Days-Of-Code.git
+    cd day-10/weather-app
+    ```
 
-<h3>Categories of IaC Tools</h3>
+2. **Get your API Key:**
 
-* Ad Hoc scripts
-* Configuration Management Tools like <b>Ansible</b>
-* Server Templating Tools
-* Orchestration Tools like Kubernetes
-* Provisioning Tools which can be declartive or imperative
+    - Go to [OpenWeatherMap](https://home.openweathermap.org/users/sign_up) and sign up for an account.
+    - Once logged in, go to your profile and find the API Keys tab to generate a new API key.
+    - Copy the generated API key.
 
-<h3>What is Terraform</h3>
+3. **Insert your API Key:**
 
-* Terraform is a tool for building, changing, and versioning infrastructure safely and efficently.
-* Enables application software best practices to infrastructure
-* Compatible with many clouds and services
+    - Open the `.apiConfig` file in a text editor.
+    - Look for the line that says `OpenWeatherMapApiKey = "YOUR_API_KEY_HERE"`.
+    - Replace `YOUR_API_KEY_HERE` with your actual OpenWeatherMap API key.
 
-<h3>Terraform Architecture</h3>
+4. **Run the program:**
 
-* It has a terraform core which Communicate with Terraform state and Terraform Config and take actions on the state file to change the congiuration according to Terraform Config file.
-* Terraform state file contains references to all the architecture that we have configured.
+    ```bash
+    go run main.go
+    ```
+    
+4. **See the Result:**
+
+   - Open your web Browser and Go to ```localhost:8080/hello```, it will display a "Hello from go" text.
+   - Go to ```localhost:8080/weather/city``` replace the city with an actual city name, it will display the weather of the city
+
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit pull requests.
