@@ -90,6 +90,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Terragrunt
 - Test account + cloud nuke
 
+### Day 10: Go-Lang Weather Project
+- Made a Go-lang weather Program
+- You can run the program in your terminal 
+- Create an account on OpenWeatherMap.org
+- It display name and temperature (Kelvin) of the place 
 
 _... continue updating log for each day ..._
 
