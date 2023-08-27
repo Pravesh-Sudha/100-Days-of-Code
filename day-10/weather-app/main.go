@@ -9,7 +9,7 @@ import (
 )
 
 type apiConfigData struct{
-	OpenWeatherApiKey string `json:"OpenWeatherMapApiKey"`
+	OpenWeatherMapApiKey string `json:"OpenWeatherMapApiKey"`
 }
 
 type weatherData struct{
@@ -21,7 +21,7 @@ type weatherData struct{
 
 func main(){
 	http.HandleFunc("/hello", helloFunc)
-	http.ListenAndServe(":8080" , nil)
+	
 	http.HandleFunc("/weather/", 
 	func(w http.ResponseWriter, r *http.Request) {
 		city := strings.SplitN(r.URL.Path, "/" ,3)[2]
@@ -33,6 +33,7 @@ func main(){
 		w.Header().Set("Content-Type", "application/json; charset=utf-8")
 		json.NewEncoder(w).Encode(data)
 	})
+	http.ListenAndServe(":8080" , nil)
 }
 
 func helloFunc(w http.ResponseWriter , r *http.Request){
