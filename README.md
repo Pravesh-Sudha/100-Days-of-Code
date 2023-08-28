@@ -1,6 +1,6 @@
-# 100 Days of Code: Terraform, Linux, and DevOps 🚀🚀🚀
+# 100 Days of Code: DevOps Challenge 🚀🚀🚀
 
-Welcome to the **100 Days of Code** challenge focused on learning Terraform, Linux, and DevOps practices! This repository is a collection of my journey as I dive into the exciting world of infrastructure as code and automation. Over the course of 100 days, I will be dedicating time each day to enhance my skills and knowledge in these powerful tools and practices.
+Welcome to the **100 Days of Code** challenge focused on learning DevOps tools and best practices!. This is my personal journey to become proficient in various DevOps tools and technologies over the course of 100 days. Whether I'm a beginner or looking to expand my skills, this challenge will guide me through a diverse range of topics in the DevOps landscape
 
 ## Table of Contents
 
@@ -13,17 +13,30 @@ Welcome to the **100 Days of Code** challenge focused on learning Terraform, Lin
 
 ## Overview
 
-In this repository, I will document my 100-day journey of hands-on learning in Terraform, Ansible, and DevOps principles. The aim is to gain a strong foundation in creating and managing infrastructure, automating deployment, and implementing DevOps practices to streamline the development lifecycle.
+In this repository, I will document my 100-day journey of hands-on learning in Amazing DevOps tools and principles. The **100 Days of Code in DevOps Challenge** is my focused initiative to help me learn and master a wide array of DevOps tools and technologies. By dedicating time each day to coding, learning, and practical projects, I'll enhance my DevOps skills and gain hands-on experience with popular tools.
 
 ## Goals
 
-My main goals for this challenge include:
+Over the course of this challenge, I'll be diving into the following DevOps tools and technologies:
 
-- **Mastery of Terraform:** I will learn how to define and manage infrastructure as code using Terraform. This includes creating, updating, and destroying resources in various cloud providers.
-
-- **Ansible Proficiency:** I intend to become proficient in Ansible, understanding its playbooks, roles, and modules. I'll explore automation of configuration management and deployment processes.
-
-- **DevOps Understanding:** Throughout this journey, I'll gain a deeper understanding of DevOps principles, continuous integration, continuous deployment (CI/CD), and how these concepts integrate with Terraform and Ansible.
+- Python Flask
+- Boto3
+- Django
+- JavaScript
+- Node.js
+- Next.js
+- TypeScript
+- MongoDB
+- Ansible
+- Terraform
+- Prometheus
+- Grafana
+- AWS Basics
+- Linux Shell Scripting
+- Docker
+- Jenkins
+- GitLab
+- Computer Networking
 
 ## Progress
 
@@ -33,8 +46,8 @@ I will regularly update my progress in the [log](#log) section below. Each day, 
 
 I'll be using a variety of resources to aid my learning, including:
 
-- Online tutorials and documentation from official Terraform, Ansible, and DevOps websites.
-- Books and e-books on Terraform, Ansible, and DevOps best practices.
+- Online tutorials and documentation from official Particular Tools DevOps websites.
+- Books and e-books on tools and DevOps best practices.
 - YouTube videos and online courses for practical demonstrations and hands-on exercises.
 
 ## Log
@@ -105,4 +118,4 @@ Let's connect! Feel free to reach out to me on social media:
 - Twitter: [@praveshstwt](https://twitter.com/praveshswtw)
 - LinkedIn: [Pravesh-Sudha](https://www.linkedin.com/in/pravesh-sudha-82a37422a/)
 
-I'm excited to share my journey of learning Terraform, Ansible, and DevOps with you. Follow along, and let's learn and grow together! 🚀
+I'm excited to share my journey of learning new DevOps tools with you. Follow along, and let's learn and grow together! 🚀
