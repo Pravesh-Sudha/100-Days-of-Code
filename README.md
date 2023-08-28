@@ -109,6 +109,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Create an account on OpenWeatherMap.org
 - It display name and temperature (Kelvin) of the place 
 
+### Day 11: Go-Lang Weather Project
+- What is Linux?
+- Linux Basics Commands
+- SSH and SCP
+- Connecting Aws Ec2 instance with SSh key
+
 _... continue updating log for each day ..._
 
 ## Connect
