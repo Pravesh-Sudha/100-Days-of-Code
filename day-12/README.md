@@ -12,7 +12,7 @@ Before using these commands, ensure you have one of the following environments s
 
 - **Amazon EC2 Instance:** If you prefer a cloud environment, create an Amazon EC2 instance running a Linux distribution. Follow the steps outlined in the [AWS documentation](https://aws.amazon.com/getting-started/hands-on/run-your-app-using-amazon-ec2/).
 
-# Basic Linux Commands
+# Basic Shell Commands
 
 This repository contains a collection of basic Linux commands that are essential for navigating and managing a Linux operating system. Whether you're a beginner looking to get started with Linux or need a quick reference, this README provides a handy guide to fundamental commands.
 
