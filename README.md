@@ -109,11 +109,16 @@ I'll be using a variety of resources to aid my learning, including:
 - Create an account on OpenWeatherMap.org
 - It display name and temperature (Kelvin) of the place 
 
-### Day 11: Go-Lang Weather Project
+### Day 11: Linux-Basic Commands
 - What is Linux?
 - Linux Basics Commands
 - SSH and SCP
 - Connecting Aws Ec2 instance with SSh key
+
+### Day 12: Shell Scipting
+- What is Shell Scripting?
+- Basics Shell Commands
+- Shell Scripts
 
 _... continue updating log for each day ..._
 
