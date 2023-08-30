@@ -120,6 +120,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Basics Shell Commands
 - Shell Scripts
 
+### Day 13: Advanced Shell Commands
+- Adding User
+- for Loop
+- Automating Backups with BASH scipts
+
 _... continue updating log for each day ..._
 
 ## Connect
