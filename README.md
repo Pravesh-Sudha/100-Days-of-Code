@@ -125,6 +125,11 @@ I'll be using a variety of resources to aid my learning, including:
 - for Loop, functions
 - Automating Backups with BASH scipts
 
+### Day 14: New Advanced Shell Commands
+- Memory Commands, Disk Check Script
+- While Loop, AWK Commands
+- cut Commands and vim editor
+
 _... continue updating log for each day ..._
 
 ## Connect
