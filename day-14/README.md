@@ -1,4 +1,4 @@
-# Day 13 of 100DaysofCode
+# Day 14 of 100DaysofCode
 
 Feeling excited to start Day 14 of 100 DaysOfCode, today, I learnt about the advanced shell scripting commands in a great Video by [Train With Shubhum](https://youtube.com/playlist?list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh&si=RpQBLv9geaalTCek). This video includes advanced shell commands like Memory Commands, AWK Commands, While Loops, cut commands, Disk Check Script and vim editor.
 
@@ -110,7 +110,7 @@ Clone this repository or simply refer to the README for a quick reference on usi
 
 ```bash
 git clone https://github.com/Pravesh-Sudha/100-Days-Of-Code.git
-cd day-13
+cd day-14
 ```
 
 ## Contributing
