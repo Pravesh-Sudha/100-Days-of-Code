@@ -98,24 +98,6 @@ else
 fi
 ```
 
-Loops allow you to repeat commands:
-
-```bash
-for i in {1..5}; do
-    echo "Number: $i"
-done
-```
-
-Functions allow you to group commands:
-
-```bash
-greet() {
-    echo "Hello from function!"
-}
-
-greet
-```
-
 Bash can read and manipulate files:
 
 ```bash
