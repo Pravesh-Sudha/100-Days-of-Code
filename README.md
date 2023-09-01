@@ -130,6 +130,11 @@ I'll be using a variety of resources to aid my learning, including:
 - While Loop, AWK Commands
 - cut Commands and vim editor
 
+### Day 15: CronJobs in Linux
+- What is Cron and CronJob
+- Creating Your first cronJob
+- Executing Your Shell scripts using CronJobs.\
+
 _... continue updating log for each day ..._
 
 ## Connect
