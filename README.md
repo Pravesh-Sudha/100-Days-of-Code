@@ -133,7 +133,14 @@ I'll be using a variety of resources to aid my learning, including:
 ### Day 15: CronJobs in Linux
 - What is Cron and CronJob
 - Creating Your first cronJob
-- Executing Your Shell scripts using CronJobs.\
+- Executing Your Shell scripts using CronJobs.
+
+### Day 15: Python
+- Variables, list
+- loops (for and while)
+- Conditional statements and dicitonaries
+- Functions and list
+- Pratical project with above Learnings.
 
 _... continue updating log for each day ..._
 
@@ -141,7 +148,7 @@ _... continue updating log for each day ..._
 
 Let's connect! Feel free to reach out to me on social media:
 
-- Twitter: [@praveshstwt](https://twitter.com/praveshswtw)
+- Twitter: [@praveshstwt](https://twitter.com/praveshstwt)
 - LinkedIn: [Pravesh-Sudha](https://www.linkedin.com/in/pravesh-sudha-82a37422a/)
 
 I'm excited to share my journey of learning new DevOps tools with you. Follow along, and let's learn and grow together! 🚀
