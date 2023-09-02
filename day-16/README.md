@@ -35,6 +35,7 @@ Clone this repository or simply refer to the README for a quick reference on usi
 ```bash
 git clone https://github.com/Pravesh-Sudha/100-Days-Of-Code.git
 cd day-16
+python3 project.py
 ```
 
 ## Variables
