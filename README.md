@@ -2,6 +2,8 @@
 
 Welcome to the **100 Days of Code** challenge focused on learning DevOps tools and best practices!. This is my personal journey to become proficient in various DevOps tools and technologies over the course of 100 days. Whether I'm a beginner or looking to expand my skills, this challenge will guide me through a diverse range of topics in the DevOps landscape
 
+![Alt text](IMG_20230401_075712_973.jpg)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -60,7 +62,7 @@ I'll be using a variety of resources to aid my learning, including:
 ### Day 2: Terraform Modules
 - Installation
 - Created an Ec2 instance with aws provider.
-- Learnt about `terraform init`,`terraform plan`, `terraform apply` command.
+- Learnt about `terraform init`, `terraform plan`, `terraform apply` command.
 
 ### Day 3: AWS S3 + DynamoDb
 - Terraform basics
