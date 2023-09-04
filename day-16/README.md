@@ -1,6 +1,6 @@
 # Day 16 of 100DaysofCode
 
-Feeling excited to start Day 15 of 100 DaysOfCode, today, I learnt about python, its basics through a practical project in a great Video by [Travis Media](https://youtu.be/f1E1NvcRvdc?si=MSo_B3bcEtLBdTl8). This video includes fundamentals of Python, How it is used in Real life project.
+Feeling excited to start Day 16 of 100 DaysOfCode, today, I learnt about python, its basics through a practical project in a great Video by [Travis Media](https://youtu.be/f1E1NvcRvdc?si=MSo_B3bcEtLBdTl8). This video includes fundamentals of Python, How it is used in Real life project.
 
 
 ## Table of Contents
