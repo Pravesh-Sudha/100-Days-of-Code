@@ -137,12 +137,18 @@ I'll be using a variety of resources to aid my learning, including:
 - Creating Your first cronJob
 - Executing Your Shell scripts using CronJobs.
 
-### Day 15: Python
+### Day 16: Python
 - Variables, list
 - loops (for and while)
 - Conditional statements and dicitonaries
 - Functions and list
 - Pratical project with above Learnings.
+
+### Day 17: Python
+- What is S3
+- Terraform fundamentals and basics
+- HTML for Portfolio Frontend
+- Static Portfolio website hosting on AWS S3 bucket
 
 _... continue updating log for each day ..._
 

@@ -115,6 +115,7 @@ terraform init
 terraform plan
 terraform apply
 ```
+Add a `profile.jpg` file into your project directory
 
 ## Contributing
 
