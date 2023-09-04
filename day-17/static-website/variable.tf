@@ -1,0 +1,3 @@
+variable "bucketname" {
+  default = "myterraformprojectstaticwebsite"
+}
