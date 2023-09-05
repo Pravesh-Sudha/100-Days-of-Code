@@ -144,11 +144,17 @@ I'll be using a variety of resources to aid my learning, including:
 - Functions and list
 - Pratical project with above Learnings.
 
-### Day 17: Python
+### Day 17: Static Website
 - What is S3
 - Terraform fundamentals and basics
 - HTML for Portfolio Frontend
 - Static Portfolio website hosting on AWS S3 bucket
+
+### Day 18: Kubernetes Live Project
+- What is EKS
+- React, Go-lang and MongoDb
+- Kubernetes fundamentals
+- Amazon EBS CSI driver
 
 _... continue updating log for each day ..._
 
