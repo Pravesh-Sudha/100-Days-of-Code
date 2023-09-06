@@ -1,1 +1,4 @@
 day-3/
+node_modules
+package.json
+package-lock.json

@@ -156,6 +156,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Kubernetes fundamentals
 - Amazon EBS CSI driver
 
+### Day 19: NPM Beginner Course Part-1
+- What is NPM? How it is realated to Node?
+- NPM vs Yarn
+- Exploring Package.json
+- Installation of NPM and Node
+- NPM Module
+
 _... continue updating log for each day ..._
 
 ## Connect
