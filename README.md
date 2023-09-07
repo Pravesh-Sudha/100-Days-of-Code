@@ -163,6 +163,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Installation of NPM and Node
 - NPM Module
 
+### Day 20: NPM Beginner Course Part-2
+- Package.json and package-lock.json
+- NPM scripts
+- All about NPX 
+- dependencies (dev and peer)
+- NPM Caching and purging
+
 _... continue updating log for each day ..._
 
 ## Connect
