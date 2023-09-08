@@ -170,6 +170,10 @@ I'll be using a variety of resources to aid my learning, including:
 - dependencies (dev and peer)
 - NPM Caching and purging
 
+### Day 21: Go-lang and Python Project
+- Go-Loadbalancer
+- Python Typing test Program
+
 _... continue updating log for each day ..._
 
 ## Connect
