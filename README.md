@@ -174,8 +174,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Go-Loadbalancer
 - Python Typing test Program
 
-### Day 22: Gitlab Tutorial and Flask Python Project
-- What is Gitlab and its architecture
+### Day 22: Gitlab Tutorial
+- What is Gitlab 
+- Gitlab architecture
+
+### Day 23: Flask Project
 - Flask Python Program for static Image editing website
 
 _... continue updating log for each day ..._
