@@ -181,6 +181,12 @@ I'll be using a variety of resources to aid my learning, including:
 ### Day 23: Flask Project
 - Flask Python Program for static Image editing website
 
+### Day 24: Gitlab Tutorial Part-2
+- Structuring CI Pipeline
+- Aws Fundamentals
+- Aws S3, IAM, CLI, etc.
+- Hosting Website on AWS S3.
+
 _... continue updating log for each day ..._
 
 ## Connect
