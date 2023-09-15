@@ -187,6 +187,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Aws S3, IAM, CLI, etc.
 - Hosting Website on AWS S3.
 
+### Day 25: Gitlab Tutorial Part-3 and Dockerize a 2048 game
+- Creating a Docker file
+- Running a container with the Dockerfile
+- AWS Elastic Beanstalk
+- Continous Delivery in Gitlab
+- Environments
+
 _... continue updating log for each day ..._
 
 ## Connect
