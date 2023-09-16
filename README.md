@@ -194,6 +194,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Continous Delivery in Gitlab
 - Environments
 
+### Day 26: Creating a DockerFile for Django To-do list
+- Creating a Docker file
+- Running a container with the Dockerfile
+- Deploying container on AWS EC2 instance
+- How Django works
+
 _... continue updating log for each day ..._
 
 ## Connect
