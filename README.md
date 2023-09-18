@@ -200,6 +200,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Deploying container on AWS EC2 instance
 - How Django works
 
+### Day 27: Flask To-do list and Gitlab course
+- Flask To-do List program
+- CI/CD
+- Gitlab architecture
+- Deploying application on Pipeline
+
 _... continue updating log for each day ..._
 
 ## Connect
