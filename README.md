@@ -206,6 +206,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Gitlab architecture
 - Deploying application on Pipeline
 
+### Day 28: Microservice Architecture and System Design with Python & Kubernetes – Full Course Part-1
+- Auth Service Code
+- Kubernetes Fundamentals
+- Docker, creating a Docker Image and pushing it on DockerHub
+- MongoDb and GridFs
+
 _... continue updating log for each day ..._
 
 ## Connect
