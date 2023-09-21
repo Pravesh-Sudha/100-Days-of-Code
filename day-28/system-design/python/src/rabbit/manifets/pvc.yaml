@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: rabbitmq-pvc  # Replace with your desired PVC name
+spec:
+  accessModes:
+    - ReadWriteOnce  # Access mode for the volume (can be ReadWriteOnce, ReadOnlyMany, or ReadWriteMany)
+  resources:
+    requests:
+      storage: 1Gi  # Requested storage size (adjust as needed)
+  storageClassName: standard
