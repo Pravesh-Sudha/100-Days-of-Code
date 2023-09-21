@@ -212,6 +212,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Docker, creating a Docker Image and pushing it on DockerHub
 - MongoDb and GridFs
 
+### Day 29: Microservice Architecture and System Design with Python & Kubernetes – Full Course Part-2
+- Async and sync Interservice communication
+- Kubernetes Ingress
+- RabbitMQ Deployment
+- Gateway Service
+
 _... continue updating log for each day ..._
 
 ## Connect
