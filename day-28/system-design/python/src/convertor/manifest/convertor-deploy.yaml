@@ -1,0 +1,44 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: convertor
+  labels:
+    app: convertor
+spec:
+  replicas: 4  
+  selector:
+    matchLabels:
+      app: convertor
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 3
+  template:
+    metadata:
+      labels:
+        app: convertor
+    spec:
+      containers:
+        - name: convertor
+          image: pravesh2003/convertor:latest  
+          ports:
+            - containerPort: 8080  
+          envFrom:
+            - configMapRef:
+                name: convertor-configmap
+            - secretRef:
+                name: convertor-secret    
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: convertor
+
+spec:
+  selector:
+    app: convertor
+  ports:
+    - protocol: TCP
+      port: 8080  
+      targetPort: 8080  
+  type: ClusterIP  
