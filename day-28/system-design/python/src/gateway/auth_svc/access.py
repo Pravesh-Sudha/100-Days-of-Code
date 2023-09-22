@@ -14,7 +14,6 @@ def login(request):
     )
 
     if response.status_code == 200:
-        return response.txt, None
+        return response.text, None
     else:
-        return (response.txt, response.status_code)
-    
+        return (response.text, response.status_code)
