@@ -219,7 +219,7 @@ I'll be using a variety of resources to aid my learning, including:
 - Gateway Service
 
 ### Day 30: Microservice Architecture and System Design with Python & Kubernetes – Full Course Part-3
-- Convertor Service Deployment, , Notification Service Deployment
+- Convertor Service Deployment
 - Notification service code
 - Notification Service Deployment
 - Update Gateway Service
