@@ -1,6 +1,6 @@
 # Day 28 of 100DaysofCode
 
-Feeling excited to start Day 28 of 100 DaysOfCode, today, I watched [Microservice Architecture and System Design with Python & Kubernetes – Full Course](https://youtu.be/hmkF77F9TLw?si=9v395dfmBrZvUxrX) Part-1 by <b>FreeCodeCamp</b>. This video contains beginner guide to Auth Service Code,  Auth Flow Overview, MongoDB & GridFs Auth Service Deployment and many more.
+Feeling excited to start Day 28 of 100 DaysOfCode, today, I watched [Microservice Architecture and System Design with Python & Kubernetes – Full Course](https://youtu.be/hmkF77F9TLw?si=9v395dfmBrZvUxrX) Part-1 by <b>FreeCodeCamp</b>. This video contains beginner guide to Auth Service Code,  Auth Flow Overview, MongoDB & GridFs Auth Service Deployment and many more
 
 ## How the project works?
 
