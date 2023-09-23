@@ -68,6 +68,75 @@ To start working with Web3, Ethereum, and smart contracts, you'll need to:
 
 4. **Experiment**: Start by creating simple smart contracts and dApps to gain hands-on experience.
 
+## Zombiefactory.sol Explanation
+
+- **Contract Name**: ZombieFactory
+- **Solidity Version**: Greater than or equal to `0.5.0` and less than `0.6.0`
+
+### Contract Structure
+
+#### State Variables
+
+```solidity
+uint dnaDigits = 16;
+uint dnaModulus = 10 ** dnaDigits;
+Zombie[] public zombies;
+```
+
+- `dnaDigits`: An unsigned integer (uint) variable set to `16`, which defines the number of digits in a zombie's DNA.
+- `dnaModulus`: An unsigned integer (uint) variable calculated as `10` raised to the power of `dnaDigits`. This is used for DNA randomness calculations.
+- `zombies`: An array of custom-defined `Zombie` structs. This array holds the zombie data for all zombies created using this contract.
+
+#### Struct
+
+```solidity
+struct Zombie {
+    string name;
+    uint dna;
+}
+```
+
+- `Zombie`: A custom-defined struct representing a zombie. It has two fields:
+  - `name`: A string representing the name of the zombie.
+  - `dna`: An unsigned integer (uint) representing the DNA of the zombie.
+
+#### Events
+
+```solidity
+event NewZombie(uint zombieId, string name, uint dna);
+```
+
+- `NewZombie`: An event triggered whenever a new zombie is created. It includes three parameters:
+  - `zombieId`: An unsigned integer (uint) representing the unique ID of the newly created zombie.
+  - `name`: A string representing the name of the zombie.
+  - `dna`: An unsigned integer (uint) representing the DNA of the zombie.
+
+#### Functions
+
+```solidity
+function _createZombie(string memory _name, uint _dna) private {
+    uint id = zombies.push(Zombie(_name, _dna)) - 1;
+    emit NewZombie(id, _name, _dna);
+}
+
+function _generateRandomDna(string memory _str) private view returns (uint) {
+    uint rand = uint(keccak256(abi.encodePacked(_str)));
+    return rand % dnaModulus;
+}
+
+function createRandomZombie(string memory _name) public {
+    uint randDna = _generateRandomDna(_name);
+    _createZombie(_name, randDna);
+}
+```
+
+- `_createZombie(string memory _name, uint _dna) private`: A private function used to create a new zombie. It takes two parameters: `_name` (a string) and `_dna` (an unsigned integer). It pushes a new `Zombie` struct with the given name and DNA into the `zombies` array and emits a `NewZombie` event.
+
+- `_generateRandomDna(string memory _str) private view returns (uint)`: A private view function that generates a random DNA value based on the input `_str`. It uses the `keccak256` hash function to derive randomness from `_str` and then calculates the remainder when dividing by `dnaModulus`. This ensures that the resulting DNA is within the defined `dnaModulus` range.
+
+- `createRandomZombie(string memory _name) public`: A public function that allows users to create a new zombie with a random DNA. It takes the `_name` of the zombie as input and generates a random DNA using `_generateRandomDna`. Then, it calls `_createZombie` to create a new zombie with the provided name and random DNA.
+
+
 ## Resources
 
 Here are some resources to help you dive deeper into these topics:
