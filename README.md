@@ -224,6 +224,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Notification Service Deployment
 - Update Gateway Service
 
+### Day 31: Complete Web3 Bootcamp to get you a High Paying JOB in 2023 Part-1
+- Web3 technologies 
+- Solidity Basics
+- What is Ethereum
+- how Web3 Works
+- Smart Contracts
+
 _... continue updating log for each day ..._
 
 ## Connect
