@@ -231,6 +231,13 @@ I'll be using a variety of resources to aid my learning, including:
 - how Web3 Works
 - Smart Contracts
 
+### Day 32: Complete Web3 Bootcamp to get you a High Paying JOB in 2023 Part-2
+- Mapping 
+- Solidity Basics
+- Address
+- Require
+- Interface
+
 _... continue updating log for each day ..._
 
 ## Connect
