@@ -238,6 +238,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Require
 - Interface
 
+### Day 33: Complete Web3 Bootcamp to get you a High Paying JOB in 2023 Part-3
+- Gas Optimization 
+- Modifier function
+- Time units
+- CallData key word
+- Looping in Solidity
+
 _... continue updating log for each day ..._
 
 ## Connect
