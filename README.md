@@ -245,7 +245,14 @@ I'll be using a variety of resources to aid my learning, including:
 - CallData key word
 - Looping in Solidity
 
-_... continue updating log for each day ..._
+### Day 34: Complete Web3 Bootcamp to get you a High Paying JOB in 2023 Part-4
+- Payable 
+- Sending Ether
+- Random Numbers
+- if-else statements
+- Writing your own Smart Contract
+
+... continue updating log for each day ..._
 
 ## Connect
 
