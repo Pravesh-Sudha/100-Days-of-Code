@@ -1,6 +1,6 @@
 # Day 34 of 100DaysofCode
 
-Feeling excited to start Day 34 of 100 DaysOfCode, today, I watched [Complete Web3 Bootcamp to get you a High Paying JOB in 2023](https://youtu.be/ERAxd8gl1Eg?si=ooQK02crdzROhEpj) Part-3 by <b>Harkirat Singh</b>. This video contains beginner guide to Web3 technologies, solidity basics, how payments are done in web3 and many more.
+Feeling excited to start Day 34 of 100 DaysOfCode, today, I watched [Complete Web3 Bootcamp to get you a High Paying JOB in 2023](https://youtu.be/ERAxd8gl1Eg?si=ooQK02crdzROhEpj) Part-3 by <b>Harkirat Singh</b>. This video contains beginner guide to Web3 technology, solidity basics, how payments are done in web3 and many more.
 
 ## How the project works?
 
