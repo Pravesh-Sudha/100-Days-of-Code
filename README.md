@@ -252,6 +252,14 @@ I'll be using a variety of resources to aid my learning, including:
 - if-else statements
 - Writing your own Smart Contract
 
+### Day 35: Jenkins & its Architecture
+- What is Jenkins?
+- Jenkins Arhitecture
+- Jenkins Master 
+- Jenkins Jobs, Plugins, Global Security 
+- Jenkins Agent
+- Jenkins Web Interface
+
 ... continue updating log for each day ..._
 
 ## Connect
