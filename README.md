@@ -37,6 +37,7 @@ Over the course of this challenge, I'll be diving into the following DevOps tool
 - Linux Shell Scripting
 - Docker
 - Jenkins
+- Cloud Computing
 - GitLab
 - Computer Networking
 
