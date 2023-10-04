@@ -261,6 +261,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Jenkins Agent
 - Jenkins Web Interface
 
+### Day 36: Installing Jenkins & devling deep into it
+- Installation 
+- Creating First Admin User
+- Jenkins Key Config on Ubuntu   
+- Setting Jenkins Agent/Slave
+- Setting Jenkins Slaves using (Username and Password) and SSh keys
+
 ... continue updating log for each day ..._
 
 ## Connect
