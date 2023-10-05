@@ -268,6 +268,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Setting Jenkins Agent/Slave
 - Setting Jenkins Slaves using (Username and Password) and SSh keys
 
+### Day 37: Jenkins & more about it
+- Setup Docker Containers as Build Agents for Jenkins
+- Setup Jenkins Build Agents on Kubernetes Pods
+- Setup AWS ECS Cluster as Build Slave for Jenkins
+- Jenkins Pipeline Guide
+- Jenkins Shared Library
+
 ... continue updating log for each day ..._
 
 ## Connect
