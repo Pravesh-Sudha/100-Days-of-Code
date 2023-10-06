@@ -275,6 +275,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Jenkins Pipeline Guide
 - Jenkins Shared Library
 
+### Day 38: Jenkins & more about it
+- Java Continuos Integration with Jenkins – Beginners Guide
+- Jenkins Automated Build Trigger On Github Pull Request
+- How To Build Docker Image In Kubernetes Pod
+- Jenkins Multibranch Pipeline Tutorial For Beginners
+
 ... continue updating log for each day ..._
 
 ## Connect
