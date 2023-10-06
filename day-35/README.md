@@ -1,6 +1,6 @@
 # Day 35 of 100DaysofCode
 
-Feeling excited to start Day 35 of 100 DaysOfCode, today, I read an amazing blog on [Jenkins Architecture Explained – Beginners Guide](https://devopscube.com/jenkins-architecture-explained/) by <b>DevOPsCube</b>. This Blog contains beginner guide to Jenkins, its architecture, its jobs and plugins and many more.
+Feeling excited to start Day 35 of 100 DaysOfCode, today, I read an amazing blog on [Jenkins Architecture Explained – Beginners Guide](https://devopscube.com/jenkins-architecture-explained/) by <b>DevOpsCube</b>. This Blog contains beginner guide to Jenkins, its architecture, its jobs and plugins and many more.
 
 ## How the project works?
 
