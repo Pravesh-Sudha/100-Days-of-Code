@@ -281,6 +281,13 @@ I'll be using a variety of resources to aid my learning, including:
 - How To Build Docker Image In Kubernetes Pod
 - Jenkins Multibranch Pipeline Tutorial For Beginners
 
+### Day 39: Jenkins & more about it
+- What is Jenkins?
+- CI/CD
+- Installing Plugins
+- Creating and Updating a pipeline
+- Connecting Jenkins with Docker
+
 ... continue updating log for each day ..._
 
 ## Connect
