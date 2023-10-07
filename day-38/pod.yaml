@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: onichan
+  name: kaniko
 spec:
   containers:
   - name: kaniko
