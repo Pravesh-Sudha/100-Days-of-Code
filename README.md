@@ -288,6 +288,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Creating and Updating a pipeline
 - Connecting Jenkins with Docker
 
+### Day 40: Jenkins Course By CodeWithNana
+- What is Jenkins?
+- Creating Multibranch with Git
+- Jenkins Pipeline Tutorial
+- Configure Build Tools in jenkins
+- Trigger Jenkins Build Automatically
+
 ... continue updating log for each day ..._
 
 ## Connect
