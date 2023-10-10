@@ -1,6 +1,6 @@
 # Day 39 of 100DaysofCode
 
-Feeling excited to start Day 39 of 100 DaysOfCode, today, I eatched an amazing video on [Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course)](https://youtu.be/f4idgaq2VqA?si=twhXDLz2RIs0KrBs) by <b>FreeCodeCamp</b>. This Video contains beginner guide to Jenkins, What is Jenkins?, CI/CD, Installing Plugins, Creating and Updating a pipeline, Connecting Jenkins with Docker and many more.
+Feeling excited to start Day 39 of 100 DaysOfCode, today, I watched an amazing video on [Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course)](https://youtu.be/f4idgaq2VqA?si=twhXDLz2RIs0KrBs) by <b>FreeCodeCamp</b>. This Video contains beginner guide to Jenkins, What is Jenkins?, CI/CD, Installing Plugins, Creating and Updating a pipeline, Connecting Jenkins with Docker and many more.
 
 ## How the project works?
 
