@@ -295,6 +295,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Configure Build Tools in jenkins
 - Trigger Jenkins Build Automatically
 
+### Day 41: Ansible Course By LearnLinuxTv
+- What is Ansible?
+- Ansible Architecture
+- Sample Playbook
+
 ... continue updating log for each day ..._
 
 ## Connect
