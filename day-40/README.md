@@ -1,6 +1,6 @@
 # Day 40 of 100DaysofCode
 
-Feeling excited to start Day 40 of 100 DaysOfCode, today, I watched an amazing video on [Jenkins Tutorial – by Nana](https://youtu.be/pMO26j2OUME?si=JcFv8q-9Ec1RwF5S) by <b>TechWorldWithNana</b>. This Video contains beginner guide to Jenkins, and many more.
+Feeling excited to start Day 40 of 100 DaysOfCode, today, I watched an amazing video on [Jenkins Tutorial – by Nana](https://youtu.be/pMO26j2OUME?si=JcFv8q-9Ec1RwF5S) by <b>TechWorldWithNana</b>. This Video contains beginner guide to Jenkins, creating mutlit branch pipeline and many more.
 
 ## How the project works?
 
