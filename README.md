@@ -305,6 +305,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Basic Git knowledge for Ansible
 - Running Ad-hoc Commands 
 
+### Day 43: Ansible Course By LearnLinuxTv Part-3
+- 'When' condition in Ansible
+- Best Practices of Wrting Playbook
+- Targetting Specific Nodes
+
 ... continue updating log for each day ..._
 
 ## Connect
