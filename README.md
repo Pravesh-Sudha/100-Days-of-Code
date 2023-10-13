@@ -310,6 +310,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Best Practices of Wrting Playbook
 - Targetting Specific Nodes
 
+### Day 44: Ansible Course By LearnLinuxTv Part-4
+- Use of tags in Ansible
+- Manging Files and Services in Playbook
+- Vaiables and Handlers
+- Adding user And Roles
+
 ... continue updating log for each day ..._
 
 ## Connect
