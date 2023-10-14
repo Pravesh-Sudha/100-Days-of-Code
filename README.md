@@ -316,6 +316,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Vaiables and Handlers
 - Adding user And Roles
 
+### Day 45: Ansible Course By SimpliLearn
+- What is Ansible?
+- Installation and Setup
+- Wrting Playbooks
+- Ansible Architecture
+- Benefits of Using Ansible
+
 ... continue updating log for each day ..._
 
 ## Connect
