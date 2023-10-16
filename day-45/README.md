@@ -1,6 +1,6 @@
 # Day 45 of 100DaysofCode
 
-Feeling excited to start Day 45 of 100 DaysOfCode, today, I watched an amazing video on [Ansible Full Course | Ansible Tutorial For Beginners](https://youtu.be/EcnqJbxBcM0?si=rn7VI40PztI1QexO) by <b>SimpliLearn</b>. This Video contains beginner guide to Ansible, ,  and many more.
+Feeling excited to start Day 45 of 100 DaysOfCode, today, I watched an amazing video on [Ansible Full Course | Ansible Tutorial For Beginners](https://youtu.be/EcnqJbxBcM0?si=rn7VI40PztI1QexO) by <b>SimpliLearn</b>. This Video contains beginner guide to Ansible, installation and setup, Ansible Architecture, Benefits of using ansible, writing your first playbook and many more.
 
 ## How the project works?
 
