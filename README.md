@@ -323,6 +323,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Ansible Architecture
 - Benefits of Using Ansible
 
+### Day 46: JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
+- What is Javascript?
+- Constants, Primitive Types
+- Dynamic Typing, Variables
+- Objects and Arrays
+- Functions and Types of functions
+
 ... continue updating log for each day ..._
 
 ## Connect
