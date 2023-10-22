@@ -330,6 +330,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Objects and Arrays
 - Functions and Types of functions
 
+### Day 47: JavaScript Project for Beginners: Weather Application
+- HTML
+- JavaScript
+- CSS
+
 ... continue updating log for each day ..._
 
 ## Connect
