@@ -1,4 +1,4 @@
-# 100 Days of Code: DevOps Challenge 🚀🚀🚀
+# 100 Days of Code: DevOps Challenge 🚀🚀
 
 Welcome to the **100 Days of Code** challenge focused on learning DevOps tools and best practices!. This is my personal journey to become proficient in various DevOps tools and technologies over the course of 100 days. Whether I'm a beginner or looking to expand my skills, this challenge will guide me through a diverse range of topics in the DevOps landscape
 
@@ -334,6 +334,11 @@ I'll be using a variety of resources to aid my learning, including:
 - HTML
 - JavaScript
 - CSS
+
+### Day 48: AWS Lambda Project
+- Creating a Lambda Function
+- Adding Layer to the function
+- Aws API Gateway
 
 ... continue updating log for each day ..._
 
