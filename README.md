@@ -340,6 +340,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Adding Layer to the function
 - Aws API Gateway
 
+### Day 48: AWS CodePipeline Project
+- Code Pipeline
+- Use of IAM, EC2, S3 in Code commit and build
+- Code Deploy
+
 ... continue updating log for each day ..._
 
 ## Connect
