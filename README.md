@@ -340,10 +340,15 @@ I'll be using a variety of resources to aid my learning, including:
 - Adding Layer to the function
 - Aws API Gateway
 
-### Day 48: AWS CodePipeline Project
+### Day 49: AWS CodePipeline Project
 - Code Pipeline
 - Use of IAM, EC2, S3 in Code commit and build
 - Code Deploy
+
+### Day 50: Creating a Digital Resume and Hosting it for Free
+- Creating a Resume
+- Styling it with CSS
+- Hosting it on Github
 
 ... continue updating log for each day ..._
 
