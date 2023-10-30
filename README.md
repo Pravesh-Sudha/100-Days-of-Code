@@ -350,6 +350,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Styling it with CSS
 - Hosting it on Github
 
+### Day 51: MongoDB Tutorial by CodeWithHarry
+- What is MongoDB
+- Basic Commands of mongo
+- Create, update, read and delete operations
+- Operators and Complex Queries
+
 ... continue updating log for each day ..._
 
 ## Connect
