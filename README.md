@@ -356,6 +356,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Create, update, read and delete operations
 - Operators and Complex Queries
 
+### Day 52: Deploying a Live Project by Nginx
+- What is Nginx
+- Creating a basic index.html
+- Hosting it on NGINX server
+- Creating a Docker images out of it
+- Configuring the Ngnix file
+
 ... continue updating log for each day ..._
 
 ## Connect
