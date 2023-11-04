@@ -363,6 +363,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Creating a Docker images out of it
 - Configuring the Ngnix file
 
+### Day 53: Practiced MongoDB on w3schools
+- Learnt about MongoDB
+- Practiced some CRUD operations
+- Attempted Exercises
+
 ... continue updating log for each day ..._
 
 ## Connect
