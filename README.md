@@ -368,6 +368,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Practiced some CRUD operations
 - Attempted Exercises
 
+### Day 54: Node.js Tutorial for Beginners by ProgrammingWithMosh
+- What is Node.js
+- Node Architecture
+- Creating, Updating and Deleting Modules
+- Path, OS Module and Http Modules
+- File System, Event Modules
+
 ... continue updating log for each day ..._
 
 ## Connect
