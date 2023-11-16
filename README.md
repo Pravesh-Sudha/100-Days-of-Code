@@ -375,6 +375,14 @@ I'll be using a variety of resources to aid my learning, including:
 - Path, OS Module and Http Modules
 - File System, Event Modules
 
+### Day 55: Grafana Fundamentals
+- What is Grafana
+- How it works
+- Explore metrics and logs
+- Build dashboards
+- Annotate dashboards
+- Set up alerts
+
 ... continue updating log for each day ..._
 
 ## Connect
