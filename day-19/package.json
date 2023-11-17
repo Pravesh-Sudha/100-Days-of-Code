@@ -1,0 +1,11 @@
+{
+  "name": "day-19",
+  "version": "1.0.0",
+  "description": "Feeling excited to start Day 19 of 100 DaysOfCode, today, I learnt about NPM full course for beginners (Part-1) in a great Video by [Codedamn](https://youtu.be/cjoTTSbOuG0?si=wuQHLd8x--mETWsh). This video includes fundamentals of NPM, How it is used in Real life project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
