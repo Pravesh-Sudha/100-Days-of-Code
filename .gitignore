@@ -1,6 +1,5 @@
 day-3/
 node_modules
-package.json
 package-lock.json
 day-27/flask-project/myvenv
 day-27/flask-project/init_db.py
