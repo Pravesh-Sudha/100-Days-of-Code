@@ -383,6 +383,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Annotate dashboards
 - Set up alerts
 
+### Day 56: Node.js Tutorials
+- What is Node.js and NPM?
+- How it works
+- Frontend and Backend
+- Modules like OS, Path, httpd, etc
+
 ... continue updating log for each day ..._
 
 ## Connect
