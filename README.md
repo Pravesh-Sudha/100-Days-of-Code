@@ -389,6 +389,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Frontend and Backend
 - Modules like OS, Path, httpd, etc
 
+### Day 57: Grafana, Prometheus Project along with Loki and Promtail
+- What is Grafana, Prometheus, Loki and Promtail
+- How they works
+- Explore metrics and logs
+- Build dashboards by Using all these
+
 ... continue updating log for each day ..._
 
 ## Connect
