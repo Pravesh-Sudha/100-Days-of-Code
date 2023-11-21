@@ -395,6 +395,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Explore metrics and logs
 - Build dashboards by Using all these
 
+### Day 58: Grafana Monitoring Setup 
+- How to send Microsoft teams notifications to Grafana dashboard 
+- Monitor Docker with Prometheus and Grafana
+- Monitoring Website using Grafana Synthetic Monitoring
+- Grafana Telegram Alert
+- Grafana Email Alert
+
 ... continue updating log for each day ..._
 
 ## Connect
