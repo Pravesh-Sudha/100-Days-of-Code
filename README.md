@@ -402,6 +402,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Grafana Telegram Alert
 - Grafana Email Alert
 
+### Day 59: Devops Project: Video Converter
+- Working on EKS, creating a cluster 
+- Kubernetes Fundamentals and Kubectl
+- Configuring Postgres, RabbitMQ and MongoDB for database
+- Code to convert Video file to Audio file
+
 ... continue updating log for each day ..._
 
 ## Connect
