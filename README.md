@@ -408,6 +408,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Configuring Postgres, RabbitMQ and MongoDB for database
 - Code to convert Video file to Audio file
 
+### Day 60: Jenkins Declartive CI/CD Project
+- Running on Aws EC2 instance
+- Build a Docker Image for the Notes app
+- Installed Jenkins and Java on EC2
+- Writing Pipeline for the project
+- Creating a Complete CI/CD Pipeline
+
 ... continue updating log for each day ..._
 
 ## Connect
