@@ -408,12 +408,19 @@ I'll be using a variety of resources to aid my learning, including:
 - Configuring Postgres, RabbitMQ and MongoDB for database
 - Code to convert Video file to Audio file
 
-### Day 60: Jenkins Declartive CI/CD Project
+### Day 60: Jenkins Declartive CI/CD Project (Resume)
 - Running on Aws EC2 instance
 - Build a Docker Image for the Notes app
 - Installed Jenkins and Java on EC2
 - Writing Pipeline for the project
 - Creating a Complete CI/CD Pipeline
+
+### Day 61: Ansible Playbook in Action (Resume)
+- Configuring Aws EC2 and installing Ansible in it
+- Ansible Fundamentals
+- Configuring host file to add servers
+- Creating Playbooks
+- Deploying a WebPage and updating its configurations by Playbook
 
 ... continue updating log for each day ..._
 
