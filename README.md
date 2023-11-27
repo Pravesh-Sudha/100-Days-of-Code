@@ -422,6 +422,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Creating Playbooks
 - Deploying a WebPage and updating its configurations by Playbook
 
+### Day 62: Netflix Clone (Resume)
+- Configuring Aws EC2 and installing Jenkins in it
+- Running Netflix Clone on Docker Container
+- Securing it through a Jenkins CICD Pipeline
+- Monitoring it through Grafana and Prometheus
+- Using ArgoCd and Helm for Kuberenets Deployment
+
 ... continue updating log for each day ..._
 
 ## Connect
