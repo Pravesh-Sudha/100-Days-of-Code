@@ -429,6 +429,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Monitoring it through Grafana and Prometheus
 - Using ArgoCd and Helm for Kuberenets Deployment
 
+### Day 63: MERN Stack tutorial by FreeCodeCamp
+- What is MERN?
+- MERN fundamentals
+- Creating the backend and frontend for exercise tracker application
+- MongoDB Atlas
+- Connecting backend to frontend
+
 ... continue updating log for each day ..._
 
 ## Connect
