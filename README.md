@@ -436,6 +436,13 @@ I'll be using a variety of resources to aid my learning, including:
 - MongoDB Atlas
 - Connecting backend to frontend
 
+### Day 64: 2-Tier Application Deployment Series Ep-1,2
+- Introduction to 2-Tier Application Deployment
+- Dockerizing 2-tier application
+- Building Frontend with Flask and Backend with MySQL
+- Building seprate images for both frontend and backend
+- Pushing the images on DockerHub
+
 ... continue updating log for each day ..._
 
 ## Connect
