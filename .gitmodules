@@ -1,3 +1,6 @@
 [submodule "day-55/tutorial-environment"]
 	path = day-55/tutorial-environment
 	url = ttps://github.com/grafana/tutorial-environment.git
+[submodule "day-64/two-tier-flask-app"]
+	path = day-64/two-tier-flask-app
+	url = https://github.com/LondheShubham153/two-tier-flask-app.git
