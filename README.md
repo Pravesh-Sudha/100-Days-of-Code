@@ -443,11 +443,18 @@ I'll be using a variety of resources to aid my learning, including:
 - Connecting both container in a docker network
 - Pushing the images on DockerHub
 
-### Day 64: 2-Tier Application Deployment Series Ep-3
+### Day 65: 2-Tier Application Deployment Series Ep-3
 - What is KubeAdm?
 - Kubernetes Architecture
 - Installation and Setup
 - Configuring Aws ec2 instance of Master and Worker node
+
+### Day 66: 2-Tier Application Deployment Series Ep-4   
+- Kubernetes Components
+- Pod
+- Deployment
+- Services
+- Persistant Volume and PVC
 
 ... continue updating log for each day ..._
 
