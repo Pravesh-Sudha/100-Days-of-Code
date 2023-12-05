@@ -1,6 +1,6 @@
 # Day 65 of 100DaysOfCode
 
-Feeling excited to start Day 65 of 100 DaysOfCode, today, I completed Episode 3 of 2-Tier Application Deployment by [TrainWithShubham](https://youtu.be/LxPd81wiUP4?si=cXEomQ_O9eTDgZZZ). In this application deployment series, I get to know about the basics of DevOps Practices like dockerizing app, pushing on dockerHub and many more. 
+Feeling excited to start Day 65 of 100 DaysOfCode, today, I completed Episode 3 of 2-Tier Application Deployment by [TrainWithShubham](https://youtu.be/LxPd81wiUP4?si=cXEomQ_O9eTDgZZZ). In this application deployment series, I get to know about the basics of DevOps Practices like what is KubeAdm, Configuring master and worker node on kubeadm and many more. 
 
 ## How the project works?
 
@@ -10,10 +10,6 @@ Clone this repository or simply refer to the README for a quick reference on how
 git clone https://github.com/Pravesh-Sudha/100-Days-Of-Code.git
 cd day-65
 ```
-
-Certainly! Below is a sample README file that explains what `kubeadm` is, provides an overview of Kubernetes and its architecture, and outlines the setup process. Feel free to customize it based on your specific needs and preferences.
-
----
 
 # Kubernetes with kubeadm Setup 
 
