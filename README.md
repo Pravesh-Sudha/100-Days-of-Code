@@ -456,6 +456,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Services
 - Persistant Volume and PVC
 
+### Day 67: 2-Tier Application Deployment Series Ep-5   
+- What is HELM?
+- HELM charts
+- Using Helm as Package Manager
+
 ... continue updating log for each day ..._
 
 ## Connect
