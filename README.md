@@ -461,6 +461,12 @@ I'll be using a variety of resources to aid my learning, including:
 - HELM charts
 - Using Helm as Package Manager
 
+### Day 68: 2-Tier Application Deployment Series Ep-6, 7   
+- What is EKS?
+- Creating EKS Cluster
+- Configuring AWS CLI in EC2 instance
+- Running 2-tier flask application on EKS cluster
+
 ... continue updating log for each day ..._
 
 ## Connect
