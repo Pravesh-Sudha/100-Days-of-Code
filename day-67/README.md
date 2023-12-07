@@ -1,6 +1,6 @@
 # Day 67 of 100DaysOfCode
 
-Feeling excited to start Day 67 of 100 DaysOfCode, today, I completed Episode 5 of 2-Tier Application Deployment by [TrainWithShubham](https://youtu.be/LxPd81wiUP4?si=cXEomQ_O9eTDgZZZ). In this application deployment series, I get to know about the basics of DevOps Practices like Kubernetes Deployment, pushing on dockerHub and many more. 
+Feeling excited to start Day 67 of 100 DaysOfCode, today, I completed Episode 5 of 2-Tier Application Deployment by [TrainWithShubham](https://youtu.be/LxPd81wiUP4?si=cXEomQ_O9eTDgZZZ). In this application deployment series, I get to know about the basics of DevOps Practices like Kubernetes Deployment, HELM package Manager and many more. 
 
 ## How the project works?
 
