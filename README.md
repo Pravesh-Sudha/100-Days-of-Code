@@ -467,6 +467,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Configuring AWS CLI in EC2 instance
 - Running 2-tier flask application on EKS cluster
 
+### Day 69: AWS RDS Simple Course   
+- What is RDS?
+- Overview of Database
+- Database on EC2 instance
+- Migrating traditional database from EC2 to RDS
+- Automatic Backup, restore and Snapshots.
+
 ... continue updating log for each day ..._
 
 ## Connect
