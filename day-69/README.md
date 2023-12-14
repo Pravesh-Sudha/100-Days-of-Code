@@ -1,6 +1,6 @@
 # Day 69 of 100DaysOfCode
 
-Feeling excited to start Day 69 of 100 DaysOfCode, today, I watched EAWS Relational Database Service RDS Masterclass | AWS RDS Full Course | RDS Zero to Hero | AWS Demo by [A Monk in Cloud](https://youtu.be/rM_c7K0-tC0?si=X-M9CG5DEIQCJos4). In this video, I get to know about the basics of AWS RDS like overviewe of database, database on EC2, Overview of RDS and many more. 
+Feeling excited to start Day 69 of 100 DaysOfCode, today, I watched AWS Relational Database Service RDS Masterclass | AWS RDS Full Course | RDS Zero to Hero | AWS Demo by [A Monk in Cloud](https://youtu.be/rM_c7K0-tC0?si=X-M9CG5DEIQCJos4). In this video, I get to know about the basics of AWS RDS like overviewe of database, database on EC2, Overview of RDS and many more. 
 
 ## How the project works?
 
