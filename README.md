@@ -474,6 +474,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Migrating traditional database from EC2 to RDS
 - Automatic Backup, restore and Snapshots.
 
+### Day 70: AWS VPC & VPC Peering Project  
+- What is VPC?
+- VPC Peering 
+- Private Subnets
+- Route Tables
+- NAT Gateway
+
 ... continue updating log for each day ..._
 
 ## Connect
