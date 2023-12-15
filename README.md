@@ -481,6 +481,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Route Tables
 - NAT Gateway
 
+### Day 71: Basic To-do list Flask Project  
+- Revised Concepts of Flask
+- Made A to-do list program
+- Revised Python syntax
+- Revised SQLite Database queries
+
 ... continue updating log for each day ..._
 
 ## Connect
