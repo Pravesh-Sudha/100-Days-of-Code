@@ -487,6 +487,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Revised Python syntax
 - Revised SQLite Database queries
 
+### Day 72: Gitlab CI tutorial by CloudChamp  
+- What is Gitlab CI?
+- Gitlab runners and artifacts
+- CICD for Nodejs and Python Application
+- Creating a Pipeline in Gitlab
+- Variables and Environment variables in Gitlab
+
 ... continue updating log for each day ..._
 
 ## Connect
