@@ -1,0 +1,9 @@
+build:
+  - apt update -y
+  - apt install npm -y
+  - npm install
+
+deploy:
+  - apt update -y
+  - apt install nodejs -y
+  - node app.js
