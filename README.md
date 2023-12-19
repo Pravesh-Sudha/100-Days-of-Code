@@ -494,6 +494,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Creating a Pipeline in Gitlab
 - Variables and Environment variables in Gitlab
 
+### Day 73: AWS Family transfer and ACM  
+- What is Family transfer and ACM?
+- Creating a ACM certificate
+- Adding DNS records to the Domain name
+- Setting up FTPS server
+- Connecting it to S3 bucket for backend
+
 ... continue updating log for each day ..._
 
 ## Connect
