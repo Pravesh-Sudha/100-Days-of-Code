@@ -1,0 +1,2 @@
+Django==3.2
+# Add other dependencies as needed
