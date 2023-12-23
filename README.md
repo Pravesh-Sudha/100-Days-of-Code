@@ -508,6 +508,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Deploying the project on docker container of AWS
 - Using Jenkins to complete the CICD workflow
 
+### Day 75: Jenkins Project with Github Integration 
+- Using Github Repo as Source Code
+- Building a Docker Image of NodeJS Project
+- Pushing the Image on Dockerhub
+- Deploying the project on docker container of AWS
+- Using Jenkins to complete the CICD workflow
+
 ... continue updating log for each day ..._
 
 ## Connect
