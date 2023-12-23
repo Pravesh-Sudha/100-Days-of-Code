@@ -1,0 +1,40 @@
+pipeline {
+    
+    agent any
+    
+    stages {
+        
+        stage("Cloning the Application"){
+            
+            steps {
+                git url:"https://github.com/Pravesh-Sudha/node-todo-cicd.git", branch: "master"
+            }
+        }
+        
+         stage("Building a docker Images"){
+            
+            steps {
+                sh 'docker build -t node-app .'
+            }
+        }
+        
+         stage("Pushing it to DockerHub"){
+
+            steps {
+                withCredentials([usernamePassword(credentialsId: 'dockerhub', usernameVariable: 'dockerUser', passwordVariable: 'dockerPass')]) {
+                    sh "docker login -u ${env.dockerUser} -p ${env.dockerPass}"
+                }
+                sh 'docker tag node-app pravesh2003/node-app'
+                sh 'docker push pravesh2003/node-app'
+            }
+        }
+        
+         stage("Running Container"){
+            
+            steps {
+                sh 'docker-compose down && docker-compose up -d'
+            }
+        }
+        
+    }
+}
