@@ -515,6 +515,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Deploying the project on docker container of AWS
 - Using Jenkins to complete the CICD workflow
 
+### Day 76: Python Project with AWS Lambda, Cloudwatch and EBS 
+- What is EBS and Cloudwatch
+- Use Cloudwatch to log and Lambda to trigger an event
+- Use EBS to create Volume
+- Create a Program to convert GP2 volume to GP3
+
 ... continue updating log for each day ..._
 
 ## Connect
