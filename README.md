@@ -521,6 +521,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Use EBS to create Volume
 - Create a Program to convert GP2 volume to GP3
 
+### Day 77: Linux command revision
+- Basic Commands
+- Advanced Commands
+- `man` command for overview of any command
+
 ... continue updating log for each day ..._
 
 ## Connect
