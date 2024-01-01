@@ -526,6 +526,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Advanced Commands
 - `man` command for overview of any command
 
+### Day 78: Yaml Revision 
+- What is YAML?
+- Basic Components (Key-Value Pair)
+- Advanced Components like list and multi line strings
+- Wrote a Python script to validate Yaml
+- Wrote a Docker-compose.yaml for my-note-app
+
 ... continue updating log for each day ..._
 
 ## Connect
