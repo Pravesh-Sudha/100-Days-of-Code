@@ -533,6 +533,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Wrote a Python script to validate Yaml
 - Wrote a Docker-compose.yaml for my-note-app
 
+### Day 79: Ansible and its guide
+- What is Ansible?
+- Ansible components and how it works
+- Creating Ansible Inventory
+- Ansible Commands
+
 ... continue updating log for each day ..._
 
 ## Connect
