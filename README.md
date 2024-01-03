@@ -539,6 +539,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Creating Ansible Inventory
 - Ansible Commands
 
+### Day 80: Shell Scripting Project
+- Shell Scripting Revison
+- Writing a Script for monitoring AWS resources
+- Using CronJobs to run that script everyday
+- Integrating CronJob with Shell script
+- Using AWS Cli to get info about Resources
+
 ... continue updating log for each day ..._
 
 ## Connect
