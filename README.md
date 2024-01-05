@@ -546,6 +546,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Integrating CronJob with Shell script
 - Using AWS Cli to get info about Resources
 
+### Day 81: Kubernetes Deployment Project
+- Writing Manifest files 
+- Deploying app on Pod and deployments
+- Auto-scaling Feature
+
 ... continue updating log for each day ..._
 
 ## Connect
