@@ -551,6 +551,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Deploying app on Pod and deployments
 - Auto-scaling Feature
 
+### Day 82: Advance Shell Script Project
+- Wrote a Shell Script for Github Project
+- The Script will provide Info about the collaborators
+- You need to authenticate username and token as Envirnoment variable in your terminal
+- This works only for the organisation created in your account
+
 ... continue updating log for each day ..._
 
 ## Connect
