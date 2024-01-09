@@ -557,6 +557,12 @@ I'll be using a variety of resources to aid my learning, including:
 - You need to authenticate username and token as Envirnoment variable in your terminal
 - This works only for the organisation created in your account
 
+### Day 83: Deploying Redit Clone on Kubernetes
+- Getting Source Code from Github
+- Buildling a Docker image of the project
+- Pushing the Image on DockerHub
+- Writing the Manifest file for Kubernetes Deployment
+
 ... continue updating log for each day ..._
 
 ## Connect
