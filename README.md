@@ -563,6 +563,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Pushing the Image on DockerHub
 - Writing the Manifest file for Kubernetes Deployment
 
+### Day 84: Deploying Portfolio Website with Github Actions
+- Cloning A Portfolio Website Project
+- Writing Workflow for Github Actions
+- Setting AWS with Github Actions
+- Live Deployment of Website
+- Deploying website on AWS S3
+
 ... continue updating log for each day ..._
 
 ## Connect
