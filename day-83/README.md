@@ -1,4 +1,15 @@
-Certainly! If you're using NodePort as the service type in Kubernetes, here's an updated version of the README file to reflect that. Make sure to replace placeholders like `<your-dockerhub-username>` with your actual information.
+# Day 83 of 100DaysOfCode
+
+Feeling excited to start Day 83 of 100 DaysOfCode, today, I dived deep into Docker and Kubernetes by deploying a reddit clone project, So I wrote a dockerfile and Manifest for the kubernetes minikube that would deploy the Project to minikube Cluster with guidance of [TrainWithShubham](https://youtu.be/9tl0A_rwgu4?si=D2wBrRAYSUxuNsZH).
+
+## How the project works?
+
+Clone this repository or simply refer to the README for a quick reference on how my repository works. Feel free to customize the commands based on your needs.
+
+```bash
+git clone https://github.com/Pravesh-Sudha/100-Days-Of-Code.git
+cd day-83
+```
 
 # Reddit Clone Deployment on Kubernetes
 
