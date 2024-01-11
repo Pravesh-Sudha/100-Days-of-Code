@@ -570,6 +570,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Live Deployment of Website
 - Deploying website on AWS S3
 
+### Day 85: Deploying and Exposing NodeJS Application
+- Created an IAM user named Light with full EC2 access
+- Started an Ubuntu ec2 instance
+- Installed docker in it and create a dockerImage for the project
+- Ran the image on the server
+- Expose the port 3000 on security group
+
 ... continue updating log for each day ..._
 
 ## Connect
