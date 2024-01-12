@@ -577,6 +577,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Ran the image on the server
 - Expose the port 3000 on security group
 
+### Day 86: Deploying a Flask-Mongo Application on KubeADM
+- Setting up a master and worker node by KubeAdm
+- Creating manifests for the project
+- Connecting Master and worker node in KubeAdm
+- Applying all the manifests 
+- Exposing port 6443 for connection and 30007 to expose mongo service
+
 ... continue updating log for each day ..._
 
 ## Connect
