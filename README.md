@@ -584,6 +584,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Applying all the manifests 
 - Exposing port 6443 for connection and 30007 to expose mongo service
 
+### Day 87: Deploying a Three-tier Application on EKS
+- Setting up a host server with t2.micro ec2 instance
+- Creating Docker Images for Frontend, backend and database
+- Pushing the Images to AWS ECR
+- Creating a EKS Cluster and applying the manifest file
+- Installing a AWS Loadbalancer
+
 ... continue updating log for each day ..._
 
 ## Connect
