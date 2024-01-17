@@ -591,6 +591,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Creating a EKS Cluster and applying the manifest file
 - Installing a AWS Loadbalancer
 
+### Day 88: Everything about Terraform
+- Terraform use-cases
+- Terraform Life-cycles
+- State file and best practices
+- Terraform modules
+- Writing your first Terraform project
+
 ... continue updating log for each day ..._
 
 ## Connect
