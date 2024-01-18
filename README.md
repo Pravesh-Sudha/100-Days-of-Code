@@ -598,6 +598,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Terraform modules
 - Writing your first Terraform project
 
+### Day 89: Github Actions and 3 basic projects
+- What is Github Actions?
+- Its Uses cases
+- Advantages of Actions over Jenkins
+- 3 Actions file for depoly to k8s, swarm and java with maven, sonar and k8s
+
 ... continue updating log for each day ..._
 
 ## Connect
