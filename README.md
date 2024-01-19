@@ -604,6 +604,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Advantages of Actions over Jenkins
 - 3 Actions file for deploy to k8s, swarm and java with maven, sonar and k8s
 
+### Day 90: Github Actions project
+- Self-hosted runners
+- Advantages of Using Self-hosted Runners
+- Writing Github actions CI using Self-hosted runner
+- Using Ec2 instance as Self hosted runner
+
 ... continue updating log for each day ..._
 
 ## Connect
