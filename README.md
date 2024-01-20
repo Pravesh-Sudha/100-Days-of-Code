@@ -610,6 +610,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Writing Github actions CI using Self-hosted runner
 - Using Ec2 instance as Self hosted runner
 
+### Day 91: Deploy a Cloud-native-monitoring app on Kubernetes project
+- Creating a flask project from scratch 
+- Creating a Dockerfile and image of the project
+- Using Boto3, creating a ECR repo and pushing the image
+- Using Boto3, creating a EKS cluster on which the app is deployed
+
 ... continue updating log for each day ..._
 
 ## Connect
