@@ -616,6 +616,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Using Boto3, creating a ECR repo and pushing the image
 - Using Boto3, creating a EKS cluster on which the app is deployed
 
+### Day 92: Ultimate CI/CD Jenkins project
+- Getting Source Code from Github
+- Creating a Dockerfile and docker image for the project 
+- Using Jenkins to create CI Pipeline to deploy the file on dockerhub
+- Creating a kubernetes cluster using HELM
+- Setup ArgoCD on the cluster
+
 ... continue updating log for each day ..._
 
 ## Connect
