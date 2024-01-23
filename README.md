@@ -623,6 +623,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Creating a kubernetes cluster using HELM
 - Setup ArgoCD on the cluster
 
+### Day 93: AWS VPC Project
+- Created a VPC that can be used in production server
+- Created a private and a public subnet 
+- Setup Security groups for the server
+- Adding NAT gateway and internet gateway for outside communication
+- Adding an auto-scaling group to handle more traffic
+
 ... continue updating log for each day ..._
 
 ## Connect
