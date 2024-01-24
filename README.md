@@ -630,6 +630,14 @@ I'll be using a variety of resources to aid my learning, including:
 - Adding NAT gateway and internet gateway for outside communication
 - Adding an auto-scaling group to handle more traffic
 
+### Day 94: Deploy a Cloud-native-voting-app on Kubernetes project
+- Setup Roles for Cluster and NodeGroups
+- EKS Cluster setup
+- Added Node group for 2 t2.medium instances
+- Deploy Mongo statefulset and configured it
+- Setup Go API using deployment
+- Deploy the fronted and expose its service
+
 ... continue updating log for each day ..._
 
 ## Connect
