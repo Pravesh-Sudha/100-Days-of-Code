@@ -638,6 +638,14 @@ I'll be using a variety of resources to aid my learning, including:
 - Setup Go API using deployment
 - Deploy the fronted and expose its service
 
+### Day 95: Argo-Cd Tutorial EP-1 & 2
+- 
+- 
+- 
+- 
+- 
+- 
+
 ... continue updating log for each day ..._
 
 ## Connect
