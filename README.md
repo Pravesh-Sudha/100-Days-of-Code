@@ -639,12 +639,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Deploy the fronted and expose its service
 
 ### Day 95: Argo-Cd Tutorial EP-1 & 2
-- 
-- 
-- 
-- 
-- 
-- 
+- What is GitOps and ArgoCd?
+- Advantages of Gitops
+- Installing ArgoCd into minikube
+- ArgoCd Architecture
+- Accessing Argo-cd server using kubectl
 
 ... continue updating log for each day ..._
 
