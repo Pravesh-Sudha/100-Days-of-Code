@@ -645,6 +645,12 @@ I'll be using a variety of resources to aid my learning, including:
 - ArgoCd Architecture
 - Accessing Argo-cd server using kubectl
 
+### Day 96: Argo-Cd Project Example Practice
+- Installing argocd on minikube
+- Accessing Argocd Dashboard
+- Creating a Application of guestbook from github examples
+- Using Helm files to create the same guestbook
+
 ... continue updating log for each day ..._
 
 ## Connect
