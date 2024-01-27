@@ -651,6 +651,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Creating a Application of guestbook from github examples
 - Using Helm files to create the same guestbook
 
+### Day 97: AWS CFT (Infrastructure as Code) CFT vs Terraform
+- What is Cloud Formation Template?
+- Infrastructure as Code (IaC) principles
+- Drift detection
+- Create Template in Designer
+- Create CFT
+
 ... continue updating log for each day ..._
 
 ## Connect
