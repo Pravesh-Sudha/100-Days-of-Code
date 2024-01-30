@@ -658,6 +658,13 @@ I'll be using a variety of resources to aid my learning, including:
 - Create Template in Designer
 - Create CFT
 
+### Day 98: AWS CodeCommit and Code Pipeline
+- What is AWS Codecommit and Code Pipeline?
+- How CICD works on AWS
+- Jenkins vs Code Pipeline
+- Using Code commit instead of Github repository
+- Code Deploy for the deployment
+
 ... continue updating log for each day ..._
 
 ## Connect
