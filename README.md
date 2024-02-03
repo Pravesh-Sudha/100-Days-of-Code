@@ -665,6 +665,12 @@ I'll be using a variety of resources to aid my learning, including:
 - Using Code commit instead of Github repository
 - Code Deploy for the deployment
 
+### Day 99: AWS End to end CI Pipeline project
+- Setting up Github Repository
+- Create an AWS Pipeline
+- Configure AWS CodeBuild
+- Trigger the CI process
+
 ... continue updating log for each day ..._
 
 ## Connect
