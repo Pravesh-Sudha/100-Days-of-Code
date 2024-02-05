@@ -671,7 +671,11 @@ I'll be using a variety of resources to aid my learning, including:
 - Configure AWS CodeBuild
 - Trigger the CI process
 
-... continue updating log for each day ..._
+### Day 100: AWS Ultimate CICD Pipeline project
+- Continuing the CI Project
+- Using Code deploy for deploying the code
+- Deploy the application on ec2 instance
+- Configuring ec2 instance
 
 ## Connect
 
